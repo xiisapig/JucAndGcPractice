@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a40ac47-d3ec-40da-86cf-00107df48734" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZhykSDhzPOlGEwwJ6rQ4l2qqKE" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.DeadLockdemo">
+    <configuration name="DeadLockdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.thread.lock.DeadLockdemo" />
+      <module name="JucAndGcPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.thread.lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectBufferMemoryDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.jvm.oom.DirectBufferMemoryDemo" />
+      <module name="JucAndGcPractice" />
+      <option name="VM_PARAMETERS" value="-XX:MaxDirectMemorySize=5m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCRootDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.jvm.gcroots.GCRootDemo" />
+      <module name="JucAndGcPractice" />
+      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseG1GC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.jvm.gcroots.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetaspaceOOMDemo" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.jvm.oom.MetaspaceOOMDemo" />
+      <module name="JucAndGcPractice" />
+      <option name="VM_PARAMETERS" value="-XX:MetaspaceSize=8m -XX:MaxMetaspaceSize=10m " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.jvm.oom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.thread.MyThreadPoolDemo" />
+      <module name="JucAndGcPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdConsumer_BlockQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.thread.queue.ProdConsumer_BlockQueueDemo" />
+      <module name="JucAndGcPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.thread.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdConsumer_TraditionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.thread.queue.ProdConsumer_TraditionDemo" />
+      <module name="JucAndGcPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.thread.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronousQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.ypjalt.interview.study.thread.queue.SynchronousQueueDemo" />
+      <module name="JucAndGcPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.ypjalt.interview.study.thread.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DirectBufferMemoryDemo" />
+      <item itemvalue="Application.MetaspaceOOMDemo" />
+      <item itemvalue="Application.GCRootDemo" />
+      <item itemvalue="Application.SynchronousQueueDemo" />
+      <item itemvalue="Application.ProdConsumer_TraditionDemo" />
+      <item itemvalue="Application.ProdConsumer_BlockQueueDemo" />
+      <item itemvalue="Application.MyThreadPoolDemo" />
+      <item itemvalue="Application.DeadLockdemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeadLockdemo" />
+        <item itemvalue="Application.MyThreadPoolDemo" />
+        <item itemvalue="Application.ProdConsumer_BlockQueueDemo" />
+        <item itemvalue="Application.ProdConsumer_TraditionDemo" />
+        <item itemvalue="Application.SynchronousQueueDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a40ac47-d3ec-40da-86cf-00107df48734" name="Default Changelist" comment="" />
+      <created>1585305762872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585305762872</updated>
+      <workItem from="1585305764425" duration="22985000" />
+      <workItem from="1585403801487" duration="47000" />
+      <workItem from="1585404434457" duration="402000" />
+      <workItem from="1585405023478" duration="77000" />
+      <workItem from="1585405777999" duration="735000" />
+      <workItem from="1585409131986" duration="298000" />
+      <workItem from="1585409442808" duration="5583000" />
+      <workItem from="1585452787647" duration="4599000" />
+      <workItem from="1585459055567" duration="21629000" />
+      <workItem from="1585629091012" duration="987000" />
+      <workItem from="1585642138879" duration="10992000" />
+      <workItem from="1585706937929" duration="10898000" />
+      <workItem from="1585925333360" duration="249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="68" key="#DirectBufferMemoryDemo" timestamp="1585667943838">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="312" y="68" key="#DirectBufferMemoryDemo/0.23.1280.737@0.23.1280.737" timestamp="1585667943838" />
+    <state x="316" y="77" key="#GCOverheadDemo" timestamp="1585911855713">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="316" y="77" key="#GCOverheadDemo/0.0.1280.800@0.0.1280.800" timestamp="1585911855713" />
+    <state x="316" y="77" key="#GCRootDemo" timestamp="1585730228999">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="316" y="77" key="#GCRootDemo/0.0.1280.800@0.0.1280.800" timestamp="1585730228999" />
+    <state x="240" y="59" key="#Inspections" timestamp="1585318439266">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="240" y="59" key="#Inspections/0.23.1280.742@0.23.1280.742" timestamp="1585318439266" />
+    <state x="316" y="68" key="#MetaspaceOOMDemo" timestamp="1585669963480">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="316" y="68" key="#MetaspaceOOMDemo/0.23.1280.737@0.23.1280.737" timestamp="1585669963480" />
+    <state x="76" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585731786553">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="76" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1585731786553" />
+    <state x="76" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.737@0.23.1280.737" timestamp="1585667959082" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1585581099552">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1585581099552" />
+    <state x="328" y="136" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585837407826">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="328" y="136" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.800@0.0.1280.800" timestamp="1585837407826" />
+    <state x="377" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585401967269">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="377" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1585401967269" />
+    <state x="441" y="326" key="Github.CreateGistDialog" timestamp="1585925383238">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="441" y="326" key="Github.CreateGistDialog/0.0.1280.800@0.0.1280.800" timestamp="1585925383238" />
+    <state x="441" y="324" key="Github.CreateGistDialog/0.23.1280.739@0.23.1280.739" timestamp="1585925229497" />
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom" timestamp="1585895253872">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585895253872" />
+    <state width="1238" height="202" key="GridCell.Tab.0.bottom/0.23.1280.737@0.23.1280.737" timestamp="1585692984695" />
+    <state width="1238" height="185" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1585329683688" />
+    <state width="1238" height="185" key="GridCell.Tab.0.bottom/0.23.1280.743@0.23.1280.743" timestamp="1585330610297" />
+    <state width="1238" height="142" key="GridCell.Tab.0.center" timestamp="1585895253871">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585895253871" />
+    <state width="1238" height="202" key="GridCell.Tab.0.center/0.23.1280.737@0.23.1280.737" timestamp="1585692984694" />
+    <state width="1238" height="185" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1585329683687" />
+    <state width="1238" height="185" key="GridCell.Tab.0.center/0.23.1280.743@0.23.1280.743" timestamp="1585330610296" />
+    <state width="1238" height="142" key="GridCell.Tab.0.left" timestamp="1585895253869">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585895253869" />
+    <state width="1238" height="202" key="GridCell.Tab.0.left/0.23.1280.737@0.23.1280.737" timestamp="1585692984694" />
+    <state width="1238" height="185" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1585329683687" />
+    <state width="1238" height="185" key="GridCell.Tab.0.left/0.23.1280.743@0.23.1280.743" timestamp="1585330610296" />
+    <state width="1238" height="142" key="GridCell.Tab.0.right" timestamp="1585895253871">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="142" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585895253871" />
+    <state width="1238" height="202" key="GridCell.Tab.0.right/0.23.1280.737@0.23.1280.737" timestamp="1585692984695" />
+    <state width="1238" height="185" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1585329683688" />
+    <state width="1238" height="185" key="GridCell.Tab.0.right/0.23.1280.743@0.23.1280.743" timestamp="1585330610297" />
+    <state width="1238" height="232" key="GridCell.Tab.1.bottom" timestamp="1585451999656">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585451999656" />
+    <state width="1238" height="232" key="GridCell.Tab.1.center" timestamp="1585451999655">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1585451999655" />
+    <state width="1238" height="232" key="GridCell.Tab.1.left" timestamp="1585451999654">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1585451999654" />
+    <state width="1238" height="232" key="GridCell.Tab.1.right" timestamp="1585451999655">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="232" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1585451999655" />
+    <state x="141" y="39" key="SettingsEditor" timestamp="1585925804711">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1585925804711" />
+    <state x="62" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585388306962">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="62" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.800@0.0.1280.800" timestamp="1585388306962" />
+    <state x="378" y="160" key="extract.method.dialog" timestamp="1585577441324">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="160" key="extract.method.dialog/0.0.1280.800@0.0.1280.800" timestamp="1585577441324" />
+    <state x="378" y="171" key="extract.method.dialog/0.23.1280.742@0.23.1280.742" timestamp="1585323951622" />
+    <state x="0" y="0" width="845" height="800" key="find.popup" timestamp="1585493490257">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="0" y="0" width="845" height="800" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1585493490257" />
+    <state x="0" y="23" width="837" height="742" key="find.popup/0.23.1280.742@0.23.1280.742" timestamp="1585326574730" />
+    <state x="17" y="22" key="new project wizard" timestamp="1585879812868">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="17" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1585879812868" />
+    <state x="305" y="193" width="670" height="622" key="run.anything.popup" timestamp="1585667134315">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="305" y="185" width="670" height="675" key="run.anything.popup/0.0.1280.800@0.0.1280.800" timestamp="1585382901165" />
+    <state x="305" y="193" width="670" height="622" key="run.anything.popup/0.23.1280.737@0.23.1280.737" timestamp="1585667134315" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1585828174676">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585828174676" />
+  </component>
+</project>
